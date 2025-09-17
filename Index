@@ -320,8 +320,7 @@
     <script src="https://cdn.jsdelivr.net/npm/choices.js/public/assets/scripts/choices.min.js"></script>
 
     <script>
-     // const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS9XY6gz5t9yeJMMb0FcqKSjxgI209X39K2QeRy07T-kbGJwMc3ndiHJIiHhLSSlw/pub?output=csv';
-      const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vSepLXmdybQJ-E4AbAsN7zaiXJPRs6wFH1Qe_8oinF_n6u4lVqkR_Rm2LelN4cfgiwyQiszcSiCZSEt/pub?gid=320078882&single=true&output=csv';
+      const csvUrl = 'https://docs.google.com/spreadsheets/d/e/2PACX-1vS9XY6gz5t9yeJMMb0FcqKSjxgI209X39K2QeRy07T-kbGJwMc3ndiHJIiHhLSSlw/pub?output=csv';
       let data = [];
       let collegeChoices;
 
